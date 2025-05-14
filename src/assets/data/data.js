@@ -3,7 +3,7 @@ export const data = {
         L: {
             id: 1,
             name: 'Azizah',
-            child: 'Putra Bungsu',
+            child: 'Putri Bungsu',
             father: 'H. Jalaludin Syauti(alm)',
             mother: 'Hj. Neneng Aisyah',
             image: './src/assets/images/istri.png'
@@ -11,7 +11,7 @@ export const data = {
         P: {
             id: 2,
             name: 'H.Aab Abdul Rokib,S.Kom',
-            child: 'Putri Sulung',
+            child: 'Putra Sulung',
             father: 'H. Hasan Basri(alm)',
             mother: 'Hj. Uyun Yunasih',
             image: './src/assets/images/pameget.png'
