@@ -41,7 +41,7 @@ export const data = {
                 finish: 'Selesai'
             }
         },
-        address: 'Kp : Bunikasih Peuntas, RT 001 RW 007, Desa Mekarwangi, Kec. Warungkondang Kab. Cianjur 43261'
+        address: 'Kp. Bunikasih Peuntas, RT 001 RW 007, Desa Mekarwangi, Kec. Warungkondang Kab. Cianjur 43261'
     },
 
     link: {
